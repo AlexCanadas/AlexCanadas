@@ -17,7 +17,7 @@ I have studied technical fields throughout my life, with a focus on electronics 
     <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
   </a>
   <a href="mailto:alejandrocanadasgarcia@gmail.com" target="_blank">
-    <img src="https://github.com/AlexCanadas/AlexCanadas/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="Gmail" height="50" width="50" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Gmail" height="50" width="50" />
   </a>
   <a href="https://discord.com" target="_blank">
     <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
@@ -28,15 +28,46 @@ I have studied technical fields throughout my life, with a focus on electronics 
 
 ### 🛠️ Languages and Tools:
 
-<p>
+<p align="left">
+  <strong>JavaScript</strong> – Junior<br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <br><br>
+  
+  <strong>HTML5</strong> – Junior<br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <br><br>
+  
+  <strong>CSS3</strong> – Junior<br>
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <br><br>
+
+  <strong>Tailwind CSS</strong> – Junior<br>
   <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <br><br>
+
+  <strong>Bootstrap</strong> – Junior<br>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <br><br>
+
+  <strong>Timber/Twig</strong> – Junior<br>
   <img src="https://img.shields.io/badge/Timber/Twig-555555?logo=twig&logoColor=white&style=for-the-badge" alt="Timber/Twig" />
+  <br><br>
+
+  <strong>MySQL</strong> – Junior<br>
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <br><br>
+
+  <strong>Java</strong> – Junior<br>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+  <br><br>
+
+  <strong>Linux</strong> – Junior<br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux" />
+  <br><br>
+
+  <strong>Ubuntu</strong> – Junior<br>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" alt="Ubuntu" />
+  <br><br>
 </p>
 
 ---
