@@ -1,88 +1,53 @@
 <h2> Hey there! I'm Alejandro Cañadas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> About Me
 
-<img align="right" width = 250px height = 200px alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
+<img align="right" width="250px" height="200px" alt="Github" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/92f233e8-fd56-4521-bc8e-b48fe669209a" />
 
-I´ve studied always technical fields, the two most important courses I studied were electronics and electromechanics. I have more than 12 years of experience and I started to be interested in programming few years ago, that´s why I decided to learn about it. 
+I have studied technical fields throughout my life, with a focus on electronics and electromechanics. I have over 12 years of experience and, a few years ago, I became passionate about programming. This led me to study it and expand my knowledge.
 
-- 🎓 &nbsp; I’m currently studying a CFGS Multiplatform Application Development at Universidad Europea in Madrid, Spain.
-- 
-  <!-- Connect with me -->
-  <!--h2 without bottom border-->
- <div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">How to reach me🤝</h2></summary>
-  </ul>
-  <p align="left">
-    <a href="https://www.linkedin.com/in/alejandro-cañadas-937969139" target="_blank">
-      <img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" />
-    </a>
-    <a href="mailto:alejandrocanadasgarcia@gmail.com" target="_blank">
-      <img align="center" src="https://github.com/AlexCanadas/AlexCanadas/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50" />
-    </a>
-    <a href="https://discord.com" target="_blank">
-      <img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" />
-    </a>
-  </p>
-</div>
-
+- 🎓 &nbsp; Currently, I’m studying a **CFGS Multiplatform Application Development** at **Universidad Europea** in Madrid, Spain.
 
 ---
 
-<h3>  &nbsp;🛠️ Languages and Tools:</h3>
+### 🤝 How to reach me:
 
-- 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-  ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
-
-- ⚙️ &nbsp;
-  ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=Linux&logoColor=FCC624)![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?style=flat-square&logo=ubuntu)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-
-<br/>
-
-<div id="user-content-toc">
-  <ul>
-    <summary><h2 style="display: inline-block"><picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 50px>  </picture> Problem Solving</h2></summary>
-  </ul>
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/alejandro-cañadas-937969139" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="mailto:alejandrocanadasgarcia@gmail.com" target="_blank">
+    <img src="https://github.com/AlexCanadas/AlexCanadas/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="Gmail" height="50" width="50" />
+  </a>
+  <a href="https://discord.com" target="_blank">
+    <img src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="Discord" height="50" width="50" />
+  </a>
+</p>
 
 ---
 
-### ✨ Visitors
+### 🛠️ Languages and Tools:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexCanadas" alt="AlexCanadas" /> </p>
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Timber/Twig-555555?logo=twig&logoColor=white&style=for-the-badge" alt="Timber/Twig" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" alt="Java" />
+</p>
 
 ---
 
-### 📊 Profile stats
+### 📈 GitHub Stats:
 
-[![Alejandro Cañadas 's github stats](https://github-readme-stats.vercel.app/api?username=AlexCanadas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/AlexCanadas/github-readme-stats)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlexCanadas&show_icons=true&theme=radical" alt="Alejandro's GitHub Stats" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexCanadas&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="AlexCanadas" /></p>
 
----
-
-### 📊 Profile contribution
-
-> 3D Contrib
-
-<div align="center">
-  <img  src = "https://github.com/Mo-Alsehli/AlexCanadas/blob/master/profile-3d-contrib/profile-season-animate.svg"
-       alt="3d-contrib" height = 85% width = 70% /></a>
-</div>
-
-> Contribution Graph
-
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
 
 ---
 
