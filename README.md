@@ -1,5 +1,4 @@
 ## Hi there 👋
-<div align="center"><img src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/7b841857-16fb-422d-9297-be42e3eaf3a9" height = 250px width = 60%  /></div>
 
 <h2> Hey there! I'm Alejandro Cañadas <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
@@ -20,7 +19,7 @@ I´ve studied always technical fields, the two most important courses I studied 
   <!--icons and links-->
   <p align="left">
   <a href="www.linkedin.com/in/alejandro-cañadas-937969139" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-  <a href="alejandrocanadasgarcia@gmail.com" target="blank"><img align="center" src="https://github.com/Mo-Alsehli/Mo-Alsehli/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
+  <a href="alejandrocanadasgarcia@gmail.com" target="blank"><img align="center" src="https://github.com/AlexCanadas/AlexCanadas/assets/98949843/6d935082-a6bb-4f5d-be13-87b821d8421c" alt="gmail" height="50" width="50"  /></a>
   <a href="discordapp.com/users/alexgoed73" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
   </p>
   </div>
