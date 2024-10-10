@@ -74,4 +74,4 @@ I have studied technical fields throughout my life, with a focus on electronics 
 ---
 
 Credit: [Alejandro Cañadas](https://github.com/AlexCanadas)
-Last Edited on: 6/4/2024
+Last Edited on: 10/10/2024
